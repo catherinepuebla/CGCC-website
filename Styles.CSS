@@ -1,0 +1,16 @@
+p {
+	font-style : italic ;
+}
+h1 {
+	font-style : Times ; 
+}
+body {
+	background-image: url(http://www.hvac2000.com/wp-content/uploads/2016/04/73404d1e9941ed3ef0dd9148fb1b7fb7_large.jpeg);
+}
+body {
+	color: white;
+}
+body.dotted {
+	border-style: solid ;
+	border-width: medium ;
+}
